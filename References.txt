@@ -232,3 +232,10 @@ http://sourceforge.net/projects/itextsharp/
 
 This is a .NET library for exporting data to a PDF file.
 ===================================================================
+
+====Suggestions by Edgar Cerna=====================================
+
+This video is good for learning about JWT (JSON Web Tokens).
+https://www.youtube.com/watch?v=7Q17ubqLfaM&t=78s&ab_channel=WebDevSimplified
+
+========================================================
